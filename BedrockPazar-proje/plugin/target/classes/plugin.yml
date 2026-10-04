@@ -1,0 +1,9 @@
+name: BedrockPazar
+version: 1.0
+main: com.pazar.PazarPlugin
+api-version: "1.21"
+depend: [floodgate, Vault]
+commands:
+  ah:
+    description: Opens the Auction House (/ah sell <price> lists the item in your hand)
+    usage: /ah
