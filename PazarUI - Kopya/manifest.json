@@ -2,28 +2,19 @@
   "format_version": 2,
   "header": {
     "name": "Pazar UI",
-    "description": "Item pazari arayuzu",
+    "description": "Market / Auction House UI resource pack",
     "uuid": "6b7e7a9e-3c1d-4f6a-9d0e-1a2b3c4d5e01",
-    "version": [
-      1,
-      4,
-      0
-    ],
-    "min_engine_version": [
-      1,
-      21,
-      0
-    ]
+    "version": [1, 4, 0],
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "6b7e7a9e-3c1d-4f6a-9d0e-1a2b3c4d5e02",
-      "version": [
-        1,
-        4,
-        0
-      ]
+      "version": [1, 4, 0]
     }
+  ],
+  "capabilities": [
+    "raytraced" 
   ]
 }
