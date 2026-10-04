@@ -1,0 +1,118 @@
+{
+  "texture_data": {
+    "diamond_sword": {
+      "textures": "textures/items/diamond_sword"
+    },
+    "diamond_pickaxe": {
+      "textures": "textures/items/diamond_pickaxe"
+    },
+    "diamond_axe": {
+      "textures": "textures/items/diamond_axe"
+    },
+    "diamond_shovel": {
+      "textures": "textures/items/diamond_shovel"
+    },
+    "diamond_hoe": {
+      "textures": "textures/items/diamond_hoe"
+    },
+    "iron_sword": {
+      "textures": "textures/items/iron_sword"
+    },
+    "iron_pickaxe": {
+      "textures": "textures/items/iron_pickaxe"
+    },
+    "iron_axe": {
+      "textures": "textures/items/iron_axe"
+    },
+    "iron_shovel": {
+      "textures": "textures/items/iron_shovel"
+    },
+    "iron_hoe": {
+      "textures": "textures/items/iron_hoe"
+    },
+    "golden_sword": {
+      "textures": "textures/items/golden_sword"
+    },
+    "golden_pickaxe": {
+      "textures": "textures/items/golden_pickaxe"
+    },
+    "golden_axe": {
+      "textures": "textures/items/golden_axe"
+    },
+    "golden_shovel": {
+      "textures": "textures/items/golden_shovel"
+    },
+    "golden_hoe": {
+      "textures": "textures/items/golden_hoe"
+    },
+    "stone_sword": {
+      "textures": "textures/items/stone_sword"
+    },
+    "stone_pickaxe": {
+      "textures": "textures/items/stone_pickaxe"
+    },
+    "stone_axe": {
+      "textures": "textures/items/stone_axe"
+    },
+    "stone_shovel": {
+      "textures": "textures/items/stone_shovel"
+    },
+    "stone_hoe": {
+      "textures": "textures/items/stone_hoe"
+    },
+    "wooden_sword": {
+      "textures": "textures/items/wooden_sword"
+    },
+    "wooden_pickaxe": {
+      "textures": "textures/items/wooden_pickaxe"
+    },
+    "wooden_axe": {
+      "textures": "textures/items/wooden_axe"
+    },
+    "wooden_shovel": {
+      "textures": "textures/items/wooden_shovel"
+    },
+    "wooden_hoe": {
+      "textures": "textures/items/wooden_hoe"
+    },
+    "diamond": {
+      "textures": "textures/items/diamond"
+    },
+    "gold_ingot": {
+      "textures": "textures/items/gold_ingot"
+    },
+    "iron_ingot": {
+      "textures": "textures/items/iron_ingot"
+    },
+    "emerald": {
+      "textures": "textures/items/emerald"
+    },
+    "nether_star": {
+      "textures": "textures/items/nether_star"
+    },
+    "enchanted_book": {
+      "textures": "textures/items/enchanted_book"
+    },
+    "armor_stand": {
+      "textures": "textures/items/armor_stand"
+    },
+    "heart_of_the_sea": {
+      "textures": "textures/items/heart_of_the_sea"
+    },
+    "trident": {
+      "textures": "textures/items/trident"
+    },
+    "dragon_egg": {
+      "textures": "textures/items/dragon_egg"
+    },
+    "end_crystal": {
+      "textures": "textures/items/end_crystal"
+    },
+    "beacon": {
+      "textures": "textures/items/beacon"
+    },
+    "shulker_box": {
+      "textures": "textures/items/shulker_box"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "market_name": "ITEMPAZAR",
+  "market_version": "1.4.0",
+  "items_per_page": 30,
+  "grid_columns": 10,
+  "grid_rows": 3,
+  "currency": "Gold",
+  "enable_search": true,
+  "enable_filters": true,
+  "categories": [
+    "Tools",
+    "Weapons",
+    "Armor",
+    "Blocks",
+    "Consumables",
+    "Enchantments",
+    "Rare",
+    "Special"
+  ],
+  "ui_settings": {
+    "header_color": [0.95, 0.15, 0.15],
+    "panel_color": [0.15, 0.15, 0.15],
+    "button_color": [0.65, 0.65, 0.65],
+    "price_text_color": [0.35, 1, 0.35],
+    "buy_button_color": [0.35, 0.55, 0.25]
+  },
+  "texture_paths": {
+    "ui_root": "textures/ui/",
+    "items_root": "textures/items/",
+    "blocks_root": "textures/blocks/"
+  }
+}

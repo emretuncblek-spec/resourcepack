@@ -1,0 +1,7 @@
+{
+  "texture_data": {
+    "close_button": {
+      "textures": "textures/ui/close_button"
+    }
+  }
+}

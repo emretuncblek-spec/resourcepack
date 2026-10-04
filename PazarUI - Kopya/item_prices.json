@@ -1,0 +1,125 @@
+{
+  "default_currency": "Gold",
+  "items": [
+    {
+      "id": "o010",
+      "name": "Diamond Sword",
+      "texture": "diamond_sword",
+      "price": 250,
+      "currency": "Gold",
+      "category": "Weapons",
+      "rarity": "rare",
+      "in_stock": true
+    },
+    {
+      "id": "o015",
+      "name": "Diamond Pickaxe",
+      "texture": "diamond_pickaxe",
+      "price": 280,
+      "currency": "Gold",
+      "category": "Tools",
+      "rarity": "rare",
+      "in_stock": true
+    },
+    {
+      "id": "o020",
+      "name": "Diamond Axe",
+      "texture": "diamond_axe",
+      "price": 270,
+      "currency": "Gold",
+      "category": "Tools",
+      "rarity": "rare",
+      "in_stock": true
+    },
+    {
+      "id": "o030",
+      "name": "Iron Sword",
+      "texture": "iron_sword",
+      "price": 150,
+      "currency": "Gold",
+      "category": "Weapons",
+      "rarity": "uncommon",
+      "in_stock": true
+    },
+    {
+      "id": "o035",
+      "name": "Iron Pickaxe",
+      "texture": "iron_pickaxe",
+      "price": 180,
+      "currency": "Gold",
+      "category": "Tools",
+      "rarity": "uncommon",
+      "in_stock": true
+    },
+    {
+      "id": "o040",
+      "name": "Golden Axe",
+      "texture": "golden_axe",
+      "price": 2500,
+      "currency": "Gold",
+      "category": "Tools",
+      "rarity": "legendary",
+      "in_stock": true
+    },
+    {
+      "id": "o045",
+      "name": "Trident",
+      "texture": "trident",
+      "price": 5000,
+      "currency": "Gold",
+      "category": "Weapons",
+      "rarity": "epic",
+      "in_stock": true
+    },
+    {
+      "id": "o050",
+      "name": "Nether Star",
+      "texture": "nether_star",
+      "price": 10000,
+      "currency": "Gold",
+      "category": "Rare",
+      "rarity": "legendary",
+      "in_stock": true
+    },
+    {
+      "id": "o055",
+      "name": "Heart of the Sea",
+      "texture": "heart_of_the_sea",
+      "price": 7500,
+      "currency": "Gold",
+      "category": "Rare",
+      "rarity": "epic",
+      "in_stock": true
+    },
+    {
+      "id": "o060",
+      "name": "Dragon Egg",
+      "texture": "dragon_egg",
+      "price": 50000,
+      "currency": "Gold",
+      "category": "Special",
+      "rarity": "mythic",
+      "in_stock": false
+    },
+    {
+      "id": "o065",
+      "name": "Enchanted Book",
+      "texture": "enchanted_book",
+      "price": 1500,
+      "currency": "Gold",
+      "category": "Enchantments",
+      "rarity": "rare",
+      "in_stock": true
+    },
+    {
+      "id": "o070",
+      "name": "Beacon",
+      "texture": "beacon",
+      "price": 8000,
+      "currency": "Gold",
+      "category": "Blocks",
+      "rarity": "epic",
+      "in_stock": true
+    }
+  ]
+}

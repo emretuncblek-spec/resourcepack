@@ -1,0 +1,22 @@
+{
+  "texture_data": {
+    "button_dark": {
+      "textures": "textures/ui/button_dark"
+    },
+    "button_light": {
+      "textures": "textures/ui/button_light"
+    },
+    "button_red": {
+      "textures": "textures/ui/button_red"
+    },
+    "button_green": {
+      "textures": "textures/ui/button_green"
+    },
+    "info_icon": {
+      "textures": "textures/ui/info_icon"
+    },
+    "search_icon": {
+      "textures": "textures/ui/search_icon"
+    }
+  }
+}

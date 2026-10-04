@@ -1,0 +1,22 @@
+{
+  "texture_data": {
+    "panel_base": {
+      "textures": "textures/ui/panel_base"
+    },
+    "panel_header_red": {
+      "textures": "textures/ui/panel_header_red"
+    },
+    "panel_dark": {
+      "textures": "textures/ui/panel_dark"
+    },
+    "panel_slot": {
+      "textures": "textures/ui/panel_slot"
+    },
+    "price_bar": {
+      "textures": "textures/ui/price_bar"
+    },
+    "buy_bar": {
+      "textures": "textures/ui/buy_bar"
+    }
+  }
+}
